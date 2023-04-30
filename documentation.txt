@@ -1,0 +1,7 @@
+Crud Operation is done by spring boot and mvc patterns
+Entity Class
+Controller
+Service 
+Repository Class has been created
+Dependencies such as web-starter, mysql-driver, data-jpa added in pom.xml file
+Database configurations given in application.properties file
